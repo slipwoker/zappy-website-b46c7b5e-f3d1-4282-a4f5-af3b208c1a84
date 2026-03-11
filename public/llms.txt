@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Velora connects buyers, sellers, and verified drivers in NC and SC. Shop items for sale, request delivery, and transact securely with escrow protection.
+
+### How It Works
+https://example.com/how-it-works
+Discover how Velora&#39;s three-domain platform powers secure transactions and verified driver deliveries. Shop, sell, or drive with our integrated system today.
+
+### Trust & Safety
+https://example.com/trust-safety
+Your safety is our priority. Velora uses escrow payments, signal private messenger-style privacy, and a 3-strike driver policy to protect every transaction.
+
+### Contact
+https://example.com/contact
+Questions about buying, selling, or driving? Reach Velora&#39;s support team for help with marketplace listings, deliveries, and account management across NC and SC.
+
+### Products
+https://example.com/products
+Our Products - Velora
+
+### Cart
+https://example.com/cart
+Your Cart
+
+### Checkout
+https://example.com/checkout
+Checkout
+
+### Login
+https://example.com/login
+Customer Login
+
+### Account
+https://example.com/account
+My Account
+
+### Order Success
+https://example.com/order-success
+Thank you for your order
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - Velora
+
+### Category
+https://example.com/category/:slug
+Products - Velora
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
